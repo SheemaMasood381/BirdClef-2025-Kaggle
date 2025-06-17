@@ -1,3 +1,5 @@
+# 🐦 BirdCLEF 2025 - Soundscape Classification
+
 This repository contains my experiments and solutions for the [BirdCLEF 2025 Kaggle Competition](https://www.kaggle.com/competitions/birdclef-2025). The goal is to identify bird species from long soundscape recordings using machine learning and audio signal processing techniques.
 
 ---
